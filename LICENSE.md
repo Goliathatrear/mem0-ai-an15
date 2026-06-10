@@ -1,4 +1,4 @@
-# 
+# Gratuito Mem0 predefinições. Com integração com banco de dados vetorial e execução de código — otimizado para máximo desempenho e eficiência.
 
 
 
